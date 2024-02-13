@@ -1,5 +1,5 @@
 /**
- * The Calculator class is used for performing mathematical calculations.
+ * The Calculator class is used for performing mathematical calculations between two operands.
  */
 class Calculator extends ExtendedCalculator{
     /**
